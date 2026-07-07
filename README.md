@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-Hola 👋 Soy Luis Ruiz
+Hola 👋 Soy Luis Duran
 </h1>
 
 <h3 align="center">
