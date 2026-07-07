@@ -98,15 +98,7 @@ Apasionado por el desarrollo Backend utilizando Java, Spring Boot y Oracle Datab
   </a>
 </p>
 
-# 🐍 Contribuciones
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/LuisDuran-code/LuisDuran-code/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 <p align="center">
 
