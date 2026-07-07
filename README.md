@@ -1,132 +1,114 @@
+<!-- ===================== BANNER ===================== -->
 
+<p align="center">
+  <img src="banner.png" alt="Luis Ruiz Banner" width="100%">
+</p>
+
+<!-- ===================== TYPING ===================== -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Android+Developer;Spring+Boot+Learner;Oracle+Database;Building+Fintech+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Android+Developer;Spring+Boot+Learner;Oracle+Database;Building+Fintech+Projects"/>
 
 </p>
-<h1 align="center">¡Hola! 👋 Soy Luis Ruiz</h1>
+
+<h1 align="center">
+Hola 👋 Soy Luis Ruiz
+</h1>
 
 <h3 align="center">
-☕ Java Backend Developer | 📱 Android Developer | 🏦 Futuro Fintech Developer
+☕ Java Backend • 📱 Android • 🏦 Fintech
 </h3>
 
 <p align="center">
-Apasionado por el desarrollo de software, construyendo aplicaciones con Java, Oracle y Kotlin.
-</p>
 
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente desarrollando proyectos con **Java** y **Oracle Database**
-- 🌱 Aprendiendo **Spring Boot**, **Kotlin** y **Android Development**
-- 💻 Interesado en **Backend**, **Fintech** y **Arquitectura de Software**
-- 🐧 Aprendiendo Linux, Docker y buenas prácticas de desarrollo
-- 🎯 Mi meta es convertirme en **Java Backend Developer especializado en Fintech**
-
----
-
-## 🛠 Tecnologías y Herramientas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,mysql,git,github,docker,linux,html,css,bootstrap,vscode,idea&perline=7" />
+Apasionado por el desarrollo Backend utilizando Java, Spring Boot y Oracle Database.
 
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 👨‍💻 Sobre mí
+
+- ☕ Especializándome en Java Backend
+- 🌱 Aprendiendo Spring Boot y Arquitectura Limpia
+- 📱 Desarrollo Android con Kotlin
+- 🏦 Construyendo proyectos Fintech
+- 🐳 Aprendiendo Docker y Linux
+- 🚀 Buscando mejorar cada día como desarrollador
+
+---
+
+# 🛠 Stack Tecnológico
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisDuran-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDuran-code&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,mysql,git,github,docker,linux,html,css,bootstrap,idea,vscode&perline=7"/>
 
 </p>
 
 ---
 
-## 🔥 Racha de contribuciones
+# 📊 Actividad
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=LuisDuran-code&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisDuran-code&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Trofeos
+# 🚀 Proyectos
+
+| Proyecto | Tecnologías |
+|----------|-------------|
+| 🏦 Fintech API | Java · Spring Boot · Oracle |
+| 📱 Android POS | Kotlin · Room |
+| 🌐 Jaguar Wheels | HTML · CSS · Bootstrap |
+| ⚙️ REST API | Spring Boot |
+
+---
+
+# 🎯 Objetivos 2026
+
+✅ Oracle Java Certification
+
+✅ Spring Boot
+
+✅ Docker
+
+✅ Android
+
+✅ Oracle Database
+
+✅ Proyecto Fintech completo
+
+---
+
+# 📫 Contacto
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LuisDuran-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🏦 Sistema Fintech (Próximamente)
-
-Aplicación bancaria desarrollada con:
-
-- Java
-- Spring Boot
-- Oracle Database
-- JWT
-- Docker
-
----
-
-### 📱 Android POS
-
-Aplicación Android para administración de ventas.
-
-Tecnologías:
-
-- Kotlin
-- Android Studio
-- SQLite / Room
-
----
-
-### 🌐 Jaguar Wheels
-
-Landing Page desarrollada con:
-
-- HTML
-- CSS
-- Bootstrap
-
----
-
-## 🎯 Objetivos para 2026
-
-- ✅ Obtener la certificación Oracle Java
-- ✅ Dominar Spring Boot
-- ✅ Aprender Docker
-- ✅ Crear una API REST profesional
-- ✅ Publicar una aplicación Android
-- ✅ Construir un proyecto Fintech completo
-
----
-
-## 📫 Contacto
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/TU-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:tucorreo@correo.com">
+&nbsp;&nbsp;
+
+<a href="mailto:TU_CORREO">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</p>
+
+---
+
+# 🐍 Contribuciones
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/LuisDuran-code/LuisDuran-code/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
