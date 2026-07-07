@@ -21,9 +21,7 @@ Hola 👋 Soy Luis Duran
 </h3>
 
 <p align="center">
-
 Apasionado por el desarrollo Backend utilizando Java, Spring Boot y Oracle Database.
-
 </p>
 
 ---
